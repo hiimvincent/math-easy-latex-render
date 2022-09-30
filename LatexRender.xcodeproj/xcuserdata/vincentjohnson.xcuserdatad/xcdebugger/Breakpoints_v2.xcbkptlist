@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F72C69A-8864-4932-9FAD-403F7E2545AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LatexRender/PracticeTracker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "PracticeTracker"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18 - 28c5ca6d8623eff7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of LatexRender.PracticeTracker.isCorrect : Swift.Bool"
+                  moduleName = "LatexRender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincentjohnson/Desktop/SwiftWork/LatexRender/LatexRender/PracticeTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18 - bc62509e87e2a90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LatexRender.PracticeTracker.isCorrect.getter : Swift.Bool"
+                  moduleName = "LatexRender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincentjohnson/Desktop/SwiftWork/LatexRender/LatexRender/PracticeTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18 - d1204e70673f8101"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LatexRender.PracticeTracker.isCorrect.setter : Swift.Bool"
+                  moduleName = "LatexRender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincentjohnson/Desktop/SwiftWork/LatexRender/LatexRender/PracticeTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18 - 7ed68f1609372b01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LatexRender.PracticeTracker.isCorrect.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LatexRender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincentjohnson/Desktop/SwiftWork/LatexRender/LatexRender/PracticeTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18 - b169645dfb1de52a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LatexRender.PracticeTracker.$isCorrect.getter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "LatexRender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincentjohnson/Desktop/SwiftWork/LatexRender/LatexRender/PracticeTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18 - fa3e22eb4fab315e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LatexRender.PracticeTracker.$isCorrect.setter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "LatexRender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincentjohnson/Desktop/SwiftWork/LatexRender/LatexRender/PracticeTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "7B3CDCCE-F42C-4460-9066-D4B220033F18 - 5beeccfdf26664db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LatexRender.PracticeTracker.$isCorrect.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LatexRender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vincentjohnson/Desktop/SwiftWork/LatexRender/LatexRender/PracticeTracker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "3983D710-23AB-40DA-A1D9-05AF2DD77DDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
