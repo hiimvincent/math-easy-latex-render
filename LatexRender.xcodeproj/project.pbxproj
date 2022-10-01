@@ -36,6 +36,8 @@
 		DE89135B27CB6996004C8FCF /* RectangularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE89135A27CB6996004C8FCF /* RectangularProgressView.swift */; };
 		DE9945DD27AE0636005BD60F /* ProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9945DC27AE0636005BD60F /* ProgressBarView.swift */; };
 		DE9945DF27AE0A8A005BD60F /* SlideTransitionTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9945DE27AE0A8A005BD60F /* SlideTransitionTestView.swift */; };
+		DE9FA6EE28E8350D002F098F /* LessonTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9FA6ED28E8350D002F098F /* LessonTestView.swift */; };
+		DE9FA6F028E8351B002F098F /* PracticeTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9FA6EF28E8351B002F098F /* PracticeTestView.swift */; };
 		DEA5965127A9A7F20038E8C0 /* LessonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA5965027A9A7F20038E8C0 /* LessonView.swift */; };
 		DEA5965327A9C9750038E8C0 /* LessonProgressTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA5965227A9C9750038E8C0 /* LessonProgressTracker.swift */; };
 		DEB0023A27C08F3C0020B374 /* LessonTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB0023927C08F3C0020B374 /* LessonTabView.swift */; };
@@ -94,6 +96,8 @@
 		DE89135A27CB6996004C8FCF /* RectangularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangularProgressView.swift; sourceTree = "<group>"; };
 		DE9945DC27AE0636005BD60F /* ProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBarView.swift; sourceTree = "<group>"; };
 		DE9945DE27AE0A8A005BD60F /* SlideTransitionTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideTransitionTestView.swift; sourceTree = "<group>"; };
+		DE9FA6ED28E8350D002F098F /* LessonTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonTestView.swift; sourceTree = "<group>"; };
+		DE9FA6EF28E8351B002F098F /* PracticeTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeTestView.swift; sourceTree = "<group>"; };
 		DEA5965027A9A7F20038E8C0 /* LessonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonView.swift; sourceTree = "<group>"; };
 		DEA5965227A9C9750038E8C0 /* LessonProgressTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonProgressTracker.swift; sourceTree = "<group>"; };
 		DEB0023927C08F3C0020B374 /* LessonTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonTabView.swift; sourceTree = "<group>"; };
@@ -129,7 +133,6 @@
 		DE203C4A27BA24DE00C17558 /* New Practice Views */ = {
 			isa = PBXGroup;
 			children = (
-				DE203C4627BA240600C17558 /* PracticeOverallTracker.swift */,
 				DE203C4227BA234900C17558 /* PracticeQView.swift */,
 				DE203C4D27BA259900C17558 /* PracticeOverallView.swift */,
 			);
@@ -219,6 +222,7 @@
 		DE2B777F28E79B4F006CC16D /* Practice Models */ = {
 			isa = PBXGroup;
 			children = (
+				DE203C4627BA240600C17558 /* PracticeOverallTracker.swift */,
 				DE3458D827AAF20000CA3156 /* Practice.swift */,
 				DE3458DE27AB3E5B00CA3156 /* PracticeTracker.swift */,
 				DE3458D627AAF17800CA3156 /* PracticeQuestion.swift */,
@@ -230,6 +234,8 @@
 			isa = PBXGroup;
 			children = (
 				DE6644DB277EBC68000F85B2 /* LatexRenderApp.swift */,
+				DE9FA6EF28E8351B002F098F /* PracticeTestView.swift */,
+				DE9FA6ED28E8350D002F098F /* LessonTestView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -459,11 +465,13 @@
 				DE6644DC277EBC68000F85B2 /* LatexRenderApp.swift in Sources */,
 				DE203C4E27BA259900C17558 /* PracticeOverallView.swift in Sources */,
 				DE0FE7F727A774AA00B2261C /* Lesson.swift in Sources */,
+				DE9FA6F028E8351B002F098F /* PracticeTestView.swift in Sources */,
 				DE2BABCC27A3BCCD00B206B1 /* FontTestView.swift in Sources */,
 				DE5B06DC277F9E1D00CFAE06 /* MathView.swift in Sources */,
 				DE4360F727C01EE700546C9F /* ClearRectView.swift in Sources */,
 				DE3458D727AAF17800CA3156 /* PracticeQuestion.swift in Sources */,
 				DE2BABCA27A3BBBA00B206B1 /* FontBaseView.swift in Sources */,
+				DE9FA6EE28E8350D002F098F /* LessonTestView.swift in Sources */,
 				DE89135B27CB6996004C8FCF /* RectangularProgressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
